@@ -48,6 +48,20 @@ generation and interactive dashboard creation.
 | Delicious_Pizza CO.Analytics Report.pptx | Presentation |
 | Sampledata.csv | Raw dataset |
 
+## Dashboard Preview
+
+### Page 1 — Revenue Overview
+![Revenue Overview](Page1_Revenue_Overview.PNG)
+
+### Page 2 — Order Behaviour
+![Order Behaviour](Page2_Order_Behaviour_Analysis.PNG)
+
+### Page 3 — Pizza Performance
+![Pizza Performance](Page3_Pizza_Performance_Analytics.PNG)
+
+### Page 4 — Ingredients Intelligence
+![Ingredients Intelligence](Page4_Ingredients_Intelligence.PNG)
+
 ## Author
 Beatrice Wambui
 www.linkedin.com/in/beatrice-wakonyo-tech

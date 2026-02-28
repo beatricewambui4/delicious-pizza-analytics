@@ -49,6 +49,6 @@ generation and interactive dashboard creation.
 | Sampledata.csv | Raw dataset |
 
 ## Author
-Beatrice Wambi
- www.linkedin.com/in/beatrice-wakonyo-tech
+Beatrice Wambui
+www.linkedin.com/in/beatrice-wakonyo-tech
 
